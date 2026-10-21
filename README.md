@@ -66,7 +66,7 @@ A 2D endless racing game I developed using Java and JavaFX. The idea is simple: 
 
 **Technologies:** Java · JavaFX · Maven
 
-[View Repository](https://github.com/FatihaAsfi/REPLACE_WITH_NIGHTRACING_REPO)
+[View Repository](https://github.com/FatihaAsfi/NightRacing)
 
 ---
 
@@ -80,7 +80,7 @@ A climate-awareness application focused on environmental assessment, analysis, a
 
 **Technologies:** Python · CustomTkinter · Machine Learning
 
-[View Repository](https://github.com/FatihaAsfi/REPLACE_WITH_CLIMATETWIN_REPO)
+[View Repository](https://github.com/SuYeeMyatMoe/Climate_Twin_AI)
 
 ---
 
